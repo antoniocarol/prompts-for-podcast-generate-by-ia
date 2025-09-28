@@ -22,10 +22,10 @@
     preview do podcast
 </p>
 
-<p align="center">
+
 > 🎵 **[▶️ Clique aqui para ouvir o podcast](./output/podcast_editado.MP3)**  
 > *Duração: ~2 minutos | Formato: MP3*
-</p>
+
 
 # Projeto Podcast Gerado por I.A.s
 
