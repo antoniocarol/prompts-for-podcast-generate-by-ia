@@ -74,7 +74,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/106618952?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAntonio Netor<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/antoniocarol">
@@ -85,7 +85,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/antoniocarolino/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
+    &nbsp;
    </p>
 </p>
 <br/><br/>
